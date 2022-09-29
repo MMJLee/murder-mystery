@@ -1,5 +1,6 @@
 # murder-mystery
 SQL Murder Mystery (https://mystery.knightlab.com/)
+Here are the queries I used to find the murderer in SQL City.
 
 ```
 SELECT * FROM crime_scene_report 
